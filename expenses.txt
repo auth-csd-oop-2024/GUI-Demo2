@@ -1,0 +1,14 @@
+2024-1-1|Doctor|100.0
+2024-1-2|Doctor|200.0
+2024-1-3|Shopping|300.0
+2024-1-4|Groceries|400.0
+22222|22222|10.0
+qwerty|food|100.0
+qwerty|food|100.0
+qwerty|food|100.0
+qwerty|food|100.0
+qwerty|food|100.0
+qwerty|food|100.0
+qwerty|food|100.0
+qwerty|food|100.0
+qwerty|food|100.0
